@@ -1,0 +1,5 @@
+{
+  "git": "github:mlhher/late-plugins",
+  "description": "Send a desktop notification when a tool requires approval.",
+  "version": "1.0.0"
+}

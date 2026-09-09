@@ -1,0 +1,12 @@
+{
+  "name": "notify-tool-approval",
+  "version": "1.0.0",
+  "description": "Send a desktop notification when a tool requires approval.",
+  "late": {
+    "hooks": {
+      "onToolCall": [
+        "scripts/notify_tool_approval.sh"
+      ]
+    }
+  }
+}
