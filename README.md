@@ -4,17 +4,16 @@ Official plugin collection and registry for [late-cli](https://github.com/mlhher
 
 ## Available Plugins
 
-| Plugin | Description | Install |
-|--------|-------------|---------|
-| [notify-tool-approval](./plugins/notify-tool-approval) | Desktop notifications when tools need approval | See below |
+| Plugin | Description |
+|--------|-------------|
+| [notify-tool-approval](./plugins/notify-tool-approval) | Desktop notifications when tools need approval |
 
 ## Installation
 
-Clone this repo and link the plugin you want:
+No setup required.
 
 ```bash
-git clone https://github.com/mlhher/late-plugins.git ~/.local/share/late-plugins
-late plugin link ~/.local/share/late-plugins/plugins/notify-tool-approval
+late plugin install notify-tool-approval
 ```
 
 Verify it's loaded:
