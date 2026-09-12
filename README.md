@@ -7,6 +7,7 @@ Official plugin collection and registry for [late-cli](https://github.com/mlhher
 | Plugin | Description |
 |--------|-------------|
 | [notify-tool-approval](./plugins/notify-tool-approval) | Desktop notifications when tools need approval |
+| [notify-write-impl-plan](./plugins/notify-write-impl-plan) | Desktop notifications when write_implementation_plan finishes |
 
 ## Installation
 

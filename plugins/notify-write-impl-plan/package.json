@@ -1,0 +1,12 @@
+{
+  "name": "notify-write-impl-plan",
+  "version": "1.0.0",
+  "description": "Send a desktop notification when write_implementation_plan finishes.",
+  "late": {
+    "hooks": {
+      "onToolResult": [
+        "scripts/notify_write_impl_plan.sh"
+      ]
+    }
+  }
+}
